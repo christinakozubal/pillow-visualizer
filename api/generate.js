@@ -1,4 +1,3 @@
-Here's the full updated code — select all and replace everything in the GitHub editor with this:
 javascriptmodule.exports = async function handler(req, res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
